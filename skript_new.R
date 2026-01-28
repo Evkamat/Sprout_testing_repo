@@ -16,3 +16,4 @@ aaa <- delka_listu * a
 
 # To be or not to be...
 
+# Lorem ipsum dolor sit amet
