@@ -10,3 +10,5 @@ aaa <- delka_listu * a
 # Ó my se máme
 
 # od poklopu ku poklopu...
+
+#uííííííí
