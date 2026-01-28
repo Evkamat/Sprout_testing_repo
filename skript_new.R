@@ -12,3 +12,7 @@ aaa <- delka_listu * a
 # od poklopu ku poklopu...
 
 #uííííííí
+
+
+# To be or not to be...
+
